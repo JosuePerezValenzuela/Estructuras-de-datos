@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=NodoTE
+comment1.params=dato
+comment1.target=NodoTE(java.lang.Object)
+comment10.params=nuevo
+comment10.target=void\ setPadre(NodoTE)
+comment11.params=nuevo
+comment11.target=void\ setHijo(NodoTE)
+comment12.params=nuevo
+comment12.target=void\ setHno(NodoTE)
+comment2.params=nuevo
+comment2.target=void\ agregarHijo(NodoTE)
+comment3.params=nuevo
+comment3.target=void\ agregarHermano(NodoTE)
+comment4.params=dato
+comment4.target=NodoTE\ buscar(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.Object\ getDato()
+comment6.params=
+comment6.target=NodoTE\ getPadre()
+comment7.params=
+comment7.target=NodoTE\ getHijo()
+comment8.params=
+comment8.target=NodoTE\ getHno()
+comment9.params=nuevoDato
+comment9.target=void\ setDato(java.lang.Object)
+numComments=13

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Censo
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=poblacion
+comment2.target=Lista\ identificarImpostores(ArbolBin)
+comment3.params=p\ poblacion
+comment3.target=boolean\ esImpostor(PersonaCenso,\ ArbolBin)
+numComments=4

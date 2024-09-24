@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bicola()
+comment1.params=
+comment1.target=boolean\ vacia()
+comment2.params=dato
+comment2.target=void\ encolarFrente(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ decolarFrente()
+comment4.params=
+comment4.target=java.lang.Object\ verFrente()
+comment5.params=dato
+comment5.target=void\ encolarFinal(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.Object\ decolarFinal()
+comment7.params=
+comment7.target=java.lang.Object\ verFinal()
+comment8.params=
+comment8.target=int\ longitud()
+comment9.params=o
+comment9.target=void\ unir(Bicola)
+numComments=10

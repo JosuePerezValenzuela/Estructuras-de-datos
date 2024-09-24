@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaDE()
+comment1.params=dato
+comment1.target=ListaDE(java.lang.Object)
+comment10.params=pos1\ pos2
+comment10.target=void\ intercambiar(int,\ int)
+comment2.params=
+comment2.target=boolean\ vacia()
+comment3.params=dato
+comment3.target=void\ insertar(java.lang.Object)
+comment4.params=pos
+comment4.target=java.lang.Object\ eliminar(int)
+comment5.params=pos
+comment5.target=java.lang.Object\ acceder(int)
+comment6.params=
+comment6.target=int\ longitud()
+comment7.params=dato
+comment7.target=NodoDE\ buscar(java.lang.Object)
+comment8.params=pos\ dato
+comment8.target=void\ reemplazar(int,\ java.lang.Object)
+comment9.params=pos\ dato
+comment9.target=void\ insertar(int,\ java.lang.Object)
+numComments=11

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FueraIntervalo
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arbol\ x\ y
+comment2.target=Lista\ fueraIntervalo(ArbolBB,\ int,\ int)
+comment3.params=a\ lim\ res
+comment3.target=void\ elementosMenores(ArbolBB,\ int,\ Lista)
+comment4.params=a\ lim\ res
+comment4.target=void\ elementosMayores(ArbolBB,\ int,\ Lista)
+numComments=5

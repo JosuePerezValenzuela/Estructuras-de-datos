@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PersonaCenso
+comment1.params=id\ nombre\ direccion
+comment1.target=PersonaCenso(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getId()
+numComments=3

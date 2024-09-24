@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testVacia()
+comment1.params=
+comment1.target=void\ testInsertar()
+comment2.params=
+comment2.target=void\ testEliminar()
+comment3.params=
+comment3.target=void\ testAcceder()
+comment4.params=
+comment4.target=void\ testVacia2()
+comment5.params=
+comment5.target=void\ testInsertar2()
+comment6.params=
+comment6.target=void\ testEliminar2()
+comment7.params=
+comment7.target=void\ testAcceder2()
+comment8.params=
+comment8.target=void\ testReemplazar2()
+comment9.params=
+comment9.target=void\ testInvertir()
+numComments=10

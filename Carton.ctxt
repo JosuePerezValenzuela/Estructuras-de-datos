@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Carton
+comment1.params=nC
+comment1.target=Carton(int)
+comment2.params=
+comment2.target=void\ generar()
+comment3.params=
+comment3.target=int\ getNumCarton()
+comment4.params=
+comment4.target=ListaSE2\ getFichas()
+comment5.params=x
+comment5.target=void\ marcar(int)
+comment6.params=
+comment6.target=boolean\ gano()
+comment7.params=
+comment7.target=void\ reiniciar()
+numComments=8

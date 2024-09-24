@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ testVacia()
+comment1.params=
+comment1.target=void\ testInsertar()
+comment2.params=
+comment2.target=void\ testEliminar()
+comment3.params=
+comment3.target=void\ testAcceder()
+comment4.params=
+comment4.target=void\ testReemplazar()
+comment5.params=
+comment5.target=void\ testInvertir()
+numComments=6
